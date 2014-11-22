@@ -1,4 +1,4 @@
-package com.wavecrest.mds;
+package com.generic.code;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

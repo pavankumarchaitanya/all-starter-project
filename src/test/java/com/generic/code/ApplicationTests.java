@@ -1,4 +1,4 @@
-package com.wavecrest.mds;
+package com.generic.code;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

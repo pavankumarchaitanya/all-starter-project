@@ -31,7 +31,7 @@ apply plugin: 'java'
 // Developer Plugins
 apply plugin: 'eclipse'
 
-mainClassName = 'com.wavecrest.mds.Application'
+mainClassName = 'com.generic.code.Application'
 
 
 

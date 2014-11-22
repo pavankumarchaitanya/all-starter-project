@@ -1,4 +1,4 @@
-package com.wavecrest.mds;
+package com.generic.code;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
