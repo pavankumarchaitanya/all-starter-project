@@ -1,0 +1,7 @@
+## List of files to be ignored during commit
+
+.classpath
+.project
+.settings/
+bin/
+.gradle
