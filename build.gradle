@@ -18,7 +18,7 @@ buildscript {
         classpath 'org.springframework.boot:spring-boot-starter-actuator:1.1.7.RELEASE'
   		classpath 'org.springframework:spring-context-support:3.2.8.RELEASE'
      	classpath 'commons-cli:commons-cli:1.2'
-     	classpath "org.flywaydb:flyway-gradle-plugin:3.0"
+	classpath "org.flywaydb:flyway-gradle-plugin:3.2.1"
     }
 
 }
